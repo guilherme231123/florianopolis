@@ -1,0 +1,26 @@
+body {
+    background-color: coral;
+    margin: 100px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+img{
+    display: block;
+    margin-right:auto ;
+    margin-left: auto;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 120%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
